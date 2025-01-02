@@ -1,0 +1,39 @@
+services:
+  accounts:
+    image: "anand15292/accounts:s4"
+    container_name: accounts-ms
+    ports:
+      - "8080:8080"
+    deploy:
+      resources:
+        limits:
+          memory: 700m
+    networks:
+      - anand15292
+
+  loans:
+    image: "anand15292/loans:s4"
+    container_name: loans-ms
+    ports:
+      - "8090:8090"
+    deploy:
+      resources:
+        limits:
+          memory: 700m
+    networks:
+      - anand15292
+
+  cards:
+    image: "anand15292/cards:s4"
+    container_name: cards-ms
+    ports:
+      - "9000:9000"
+    deploy:
+      resources:
+        limits:
+          memory: 700m
+    networks:
+      - anand15292
+networks:
+  anand15292:
+    driver: "bridge"

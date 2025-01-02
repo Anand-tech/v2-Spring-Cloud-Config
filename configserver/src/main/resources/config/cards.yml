@@ -1,0 +1,12 @@
+build:
+  version:
+    3.0
+
+cards:
+  message: "Welcome to the EazyBank Cards Related local APIs"
+  contactDetails:
+    name: "Anand Natarajan - Developer"
+    email: "anandnatarajan15292@gmail.com"
+  OnCallSupport:
+    - (91) 9810648943
+    - (91) 9789668317

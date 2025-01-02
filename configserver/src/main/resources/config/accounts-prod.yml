@@ -1,0 +1,12 @@
+
+build:
+  version: "1.0"
+
+accounts:
+  message: "Welcome to the EazyBank accounts related Prod APIs"
+  contactDetails:
+    name: "Archana Natarajan - Product Owner"
+    email: "archananatarajan71184@gmail.com"
+  onCallSupport:
+    -(453) 555-1235
+    -(555) 555-6780

@@ -1,0 +1,11 @@
+build:
+  version:
+    1.0
+cards:
+  message: "EazyBank Project for the Cards API in QA Environment"
+  contactDetails:
+    name: "Akshay Swami - Product Owner"
+    email: "akshaySwami@gmail.com"
+  OnCallSupport:
+    - (91) 9810499143
+    - (91) 9789668318

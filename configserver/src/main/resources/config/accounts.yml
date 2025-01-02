@@ -1,0 +1,12 @@
+
+build:
+  version: "3.0"
+
+accounts:
+  message: "Welcome to the EazyBank accounts related local APIs"
+  contactDetails:
+    name: "Anand Natarajan - Developer"
+    email: "anandnatarajan15292@gmail.com"
+  onCallSupport:
+    -(555) 555-1234
+    -(555) 555-6789

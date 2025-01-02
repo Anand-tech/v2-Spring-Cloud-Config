@@ -1,0 +1,11 @@
+build:
+  version: "2.0"
+
+accounts:
+  message: "Welcome to the EazyBank accounts related to QA APIs"
+  contactDetails:
+    name: "Neela Natarajan - QA Lead"
+    email: "neelanatarajan15292@gmail.com"
+  onCallSupport:
+    -(555) 955-1234
+    -(555) 655-6789

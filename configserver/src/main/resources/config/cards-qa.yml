@@ -1,0 +1,11 @@
+build:
+  version:
+    2.0
+cards:
+  message: "EazyBank Project for the Cards API in QA Environment"
+  contactDetails:
+    name: "Abhinav Chand - QA Team lead"
+    email: "abhinavChand@gmail.com"
+  OnCallSupport:
+    - (91) 9810499143
+    - (91) 9789668317
